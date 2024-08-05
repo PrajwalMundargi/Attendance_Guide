@@ -6,7 +6,7 @@
         "name": "prajwal",
         "usn": "1rn22ai082",
         "branch": "aiml",
-        "attendance": 21,
+        "attendance": 24,
         "email": "1rn22ai082.prajwalmundargi@rnsit.ac.in"
     },
     {
@@ -16,7 +16,7 @@
         "name": "samarth g",
         "usn": "1rn22ai100",
         "branch": "aiml",
-        "attendance": 10
+        "attendance": 12
     },
     {
         "_id": {
@@ -25,7 +25,8 @@
         "name": "ramya g",
         "usn": "1rn22ai089",
         "branch": "aiml",
-        "attendance": 6
+        "attendance": 8,
+        "email": "1rn22ai089.ramyag@rnsit.ac.in"
     },
     {
         "_id": {
