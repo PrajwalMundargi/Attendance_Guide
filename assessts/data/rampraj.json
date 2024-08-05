@@ -1,0 +1,67 @@
+[
+    {
+        "_id": {
+            "$oid": "66aa153c92933a667dc4e49b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "66aa18f792933a667dc4e49c"
+        },
+        "name": "ramya g",
+        "section": "B",
+        "Branch": "aiml",
+        "usn": "1rn22ai089",
+        "email": "1rn22ai089.ramyag@rnsit.ac.in",
+        "phno": "8310867971",
+        "attendance": 1
+    },
+    {
+        "_id": {
+            "$oid": "66aa1dd392933a667dc4e49d"
+        },
+        "name": "prajwal mundargi",
+        "section": "B",
+        "Branch": "aiml",
+        "usn": "1rn22ai082",
+        "email": "1rn22ai082.prajwalmundargi@rnsit.ac.in",
+        "phno": "9606520032",
+        "attendance": 3
+    },
+    {
+        "_id": {
+            "$oid": "66aa1dd392933a667dc4e49e"
+        },
+        "name": "samarth g",
+        "section": "B",
+        "Branch": "aiml",
+        "usn": "1rn22ai099",
+        "email": "1rn22ai099.samarthg@rnsit.ac.in",
+        "phno": "8884045990",
+        "attendance": 3
+    },
+    {
+        "_id": {
+            "$oid": "66aa1dd392933a667dc4e49f"
+        },
+        "name": "sahana adiga v",
+        "section": "B",
+        "Branch": "aiml",
+        "usn": "1rn22ai095",
+        "email": "1rn22ai095.sahanaadigav@rnsit.ac.in",
+        "phno": "9380725721",
+        "attendance": 2
+    },
+    {
+        "_id": {
+            "$oid": "66aa1dd392933a667dc4e4a0"
+        },
+        "name": "anantesh g",
+        "section": "A",
+        "Branch": "aiml",
+        "usn": "1rn22ai013",
+        "email": "1rn22ai013.ananteshg@rnsit.ac.in",
+        "phno": "9901470297",
+        "attendance": 3
+    }
+]
