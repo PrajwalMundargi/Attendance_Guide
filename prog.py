@@ -74,10 +74,9 @@ def option1():
             print("Failed to capture image")
             break
 
-        # Convert the image from BGR (OpenCV format) to RGB (face_recognition format)
+        # Convert the image from BGR to RGB
         rgb_frame = cv.cvtColor(frame, cv.COLOR_BGR2RGB)
 
-        # Find all face locations and encodings in the current frame
         face_locations = face_recognition.face_locations(rgb_frame)
         face_encodings_in_frame = face_recognition.face_encodings(rgb_frame, face_locations)
 
@@ -113,7 +112,6 @@ def option1():
         # Display the resulting image
         cv.imshow('Video', frame)
 
-        # Break the loop when 'q' is pressed
         if cv.waitKey(1) & 0xFF == ord('q'):
             break
 
